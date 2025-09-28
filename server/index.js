@@ -11,7 +11,7 @@ app.use(express.json());
 
 // ✅ Allowed Origins (Dev + Prod)
 const allowedOrigins = [
-    "http://localhost:5173",
+    "https://kundan-portfolio-1viy.vercel.app",
 
 ];
 
